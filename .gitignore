@@ -1,3 +1,7 @@
-# VSCode
-
+# vscode configs
 .vscode
+
+# compiled files
+*.dll
+*.exe
+*.so
